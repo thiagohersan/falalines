@@ -1,5 +1,5 @@
 let pos = 0;
-let fendaWidth = 4;
+let fendaWidth = 8;
 let word = "HELP";
 let fontSize = 400;
 
